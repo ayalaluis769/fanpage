@@ -1,0 +1,69 @@
+body {
+    background-image: url(./images/marvel.jpg);
+    font-family: "Bangers", cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    background-image: linear-gradient(to right,#DC143C, #B22222, #FF0000);
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top:auto;
+    width: 80%;
+  }  
+
+.media{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top:auto;
+  width: 40%;
+}
+
+#stanLee{
+    border: 10px solid red;
+    margin: 10px;
+}
+
+h3{
+    border: 10px solid red;
+    background: yellow;
+    width: 450px;
+}
+
+#accordion{
+    border: 10px solid red;
+}
+
+.card{
+    background: yellow;
+}
+
+#lifeAndTimes{
+    border: 10px solid red;
+    background: yellow;
+    width: 150px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+.site-footer{
+    background-image: linear-gradient(to right,#DC143C, #B22222, #FF0000);
+}
+
+#number, #email, h5, h1{
+    color: yellow;
+}
